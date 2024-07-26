@@ -1,0 +1,14 @@
+E:\fulminous\Practice\Practice\obj\Debug\net8.0\Practice.GeneratedMSBuildEditorConfig.editorconfig
+E:\fulminous\Practice\Practice\obj\Debug\net8.0\Practice.AssemblyInfoInputs.cache
+E:\fulminous\Practice\Practice\obj\Debug\net8.0\Practice.AssemblyInfo.cs
+E:\fulminous\Practice\Practice\obj\Debug\net8.0\Practice.csproj.CoreCompileInputs.cache
+E:\fulminous\Practice\Practice\bin\Debug\net8.0\Practice.exe
+E:\fulminous\Practice\Practice\bin\Debug\net8.0\Practice.deps.json
+E:\fulminous\Practice\Practice\bin\Debug\net8.0\Practice.runtimeconfig.json
+E:\fulminous\Practice\Practice\bin\Debug\net8.0\Practice.dll
+E:\fulminous\Practice\Practice\bin\Debug\net8.0\Practice.pdb
+E:\fulminous\Practice\Practice\obj\Debug\net8.0\Practice.dll
+E:\fulminous\Practice\Practice\obj\Debug\net8.0\refint\Practice.dll
+E:\fulminous\Practice\Practice\obj\Debug\net8.0\Practice.pdb
+E:\fulminous\Practice\Practice\obj\Debug\net8.0\Practice.genruntimeconfig.cache
+E:\fulminous\Practice\Practice\obj\Debug\net8.0\ref\Practice.dll
